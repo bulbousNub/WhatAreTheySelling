@@ -1,3 +1,10 @@
+//
+//  AllTimeLeaderboardView.swift
+//  WhatAreTheySelling
+//
+//  Created by bulbousNub on 8/29/25.
+//
+
 import Foundation
 import SwiftUI
 

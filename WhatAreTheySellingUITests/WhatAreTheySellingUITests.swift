@@ -1,9 +1,10 @@
 //
-//  WhatAreTheySellingUITests.swift
-//  WhatAreTheySellingUITests
+//  AllTimeLeaderboardView.swift
+//  WhatAreTheySelling
 //
-//  Created by TeJay Guilliams on 8/29/25.
+//  Created by bulbousNub on 8/29/25.
 //
+
 
 import XCTest
 
